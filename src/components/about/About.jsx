@@ -21,12 +21,9 @@ const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+        I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my one and half years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. I've also had the opportunity to serve as the software engineer lead for three projects with First Technology
         </p>
-        <div className="a-award">
+        {/* <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
@@ -35,7 +32,7 @@ const About = () => {
               and fugit.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
