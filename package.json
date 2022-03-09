@@ -1,6 +1,5 @@
-{
+{"homepage": "https://avinashparakhiya.github.io/avinashparakhiya",
   "name": "new",
-  "homepage": "http://Avinashparakhiya.github.io/avinashparakhiya",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
